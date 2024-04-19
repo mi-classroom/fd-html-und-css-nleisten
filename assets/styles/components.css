@@ -1,0 +1,10 @@
+/* Fav List
+###################################################################
+*/
+
+.fav-list-item{
+    background-color: var(--color-white);
+    margin-bottom: var(--s);
+    padding: var(--s);
+    
+}
